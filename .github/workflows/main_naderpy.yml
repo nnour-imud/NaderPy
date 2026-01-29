@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'NaderPy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C284C0EE67E9462AA7ADB48BDE55EC9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C73CDBF470AC43C9BBC80774971DAD78 }}
